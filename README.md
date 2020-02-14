@@ -1,2 +1,0 @@
-# svn-delpoy
-IDE delpoy
