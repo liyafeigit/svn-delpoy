@@ -1,0 +1,4 @@
+/code/zhjy/trunk/zhjy/src/main/java/com/sclbxx/sysentranceyear/dao/SysEntranceYearMapper.java
+/code/zhjy/trunk/zhjy/src/main/java/com/sclbxx/teachclass/service/TeachclassServiceImpl.java
+/code/zhjy/trunk/zhjy/src/main/resources/mapper/SysEntranceYearMapper.xml
+/code/zhjy/trunk/zhjy/src/main/resources/mapper/TeachclassMapper.xml

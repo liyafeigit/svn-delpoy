@@ -1,0 +1,9 @@
+1、使用SVN客户端获取需要发布的文件并拷贝其svn地址
+2、将拷贝的地址复制到deployContent.txt文件中(直接将deployContent.txt原内容全部覆盖掉)
+3、运行Deploy.java直接将需要发布的文件生成至deployConfig.properties中所设置的地址
+
+deployConfig.properties配置参数列表：
+appPath:需要更新工程在tomcat中的地址
+projectName:需要更新工程在tomcat中的工程名
+deployPath:发布文件存放的地址
+undeployRole:发布中需要过滤掉，不发布的文件(多个文件中间以","隔开)
